@@ -1,7 +1,7 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/Aluval/Aluval/raw/main/assets/line-neon.gif" width="100%">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒+𝐖𝐎𝐑𝐋𝐃🌏!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒+𝐇𝐀𝐑𝐒𝐇𝐀+𝟐𝟒✨!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+Mr+Abdul Creations🌏!;✨!)</p>
 <!-- GIF HEADER -->
 <img src="https://github.com/Aluval/Aluval/raw/main/assets/line-neon.gif" width="100%">
 
